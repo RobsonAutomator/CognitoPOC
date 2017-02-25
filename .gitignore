@@ -5,3 +5,4 @@
 /Cognito.Console/bin/Debug
 /Cognito.Console/obj/Debug
 /packages
+*.suo
