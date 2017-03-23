@@ -10,6 +10,9 @@ namespace Cognito.Console
     {
         static void Main(string[] args)
         {
+            var poolId = Environment.GetEnvironmentVariable("CognitoPoolId");
+            var clientId = Environment.GetEnvironmentVariable("CognitoClientId");
+
         }
     }
 }
