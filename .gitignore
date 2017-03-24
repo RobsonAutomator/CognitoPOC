@@ -6,3 +6,5 @@
 /Cognito.Console/obj/Debug
 /packages
 *.suo
+/bin
+/obj
