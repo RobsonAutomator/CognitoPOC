@@ -6,5 +6,5 @@ How to configure User Pool is described here - http://lets-share.senktas.net/201
 Polish version is available here - http://aws-blog.pl/2017/03/24/wprowadzenie-uslugi-cognito-user-pool-amazon-web-services/
 
 ## Workstation configuration
-Before you start your adventure with AWS then you have to install few tools. 
-Go to https://aws.amazon.com/sdk-for-net/ and install AWSToolsAndSDKForNet
+How to configure Visual Studio is described - http://lets-share.senktas.net/2017/04/introduction-aws-cognito-visual-studio-configuration.html
+Polish version is available here - http://aws-blog.pl/2017/04/04/wprowadzenie-aws-cognito-konfiguracja-srodowiska-programistycznego-dla-net/
